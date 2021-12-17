@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLisandro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Nathan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
        src="https://cdn.discordapp.com/attachments/391692863009849355/921079232665362462/omiranha.jpg">
     
     
