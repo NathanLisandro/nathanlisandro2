@@ -14,5 +14,6 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
        src="https://cdn.discordapp.com/attachments/391692863009849355/921079232665362462/omiranha.jpg">
     
-     ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
+   ![Snake animation](https://github.com/NathanLisandro/NathanLisandro/blob/output/github-contribution-grid-snake.svg)
